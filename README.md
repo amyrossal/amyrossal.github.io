@@ -1,2 +1,1 @@
-# site1
-site1
+All rights reserved
