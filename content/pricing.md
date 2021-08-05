@@ -5,24 +5,8 @@ image: "images/pricing.webp"
 
 ---
 
-###### Things about pricing here (maybe you dont want this at all and instead just want them to contact?)(Can also chose format of below shown)
---- 
+> £30 starting price
 
-#### Price 1
+**Price depends on project size.**
 
-- `Feature`
-- `Feature`
-
----
-
-#### Price 2 
-
- > Feature
- >- Feature
-
----
-
-#### Price 3
-
-* Feature
-* Feature
+**[Contact](/contact) for a personal quote.**

@@ -82,11 +82,11 @@ author = "Amy Rossal"
 author_image = "images/banner-img.png"
 bio = "Biography about yourself (optional)"
 # Contact info
-mobile = "+44 phone number"
-email = "email@address"
-address = "Physic Address here (optional)"
+#mobile = "+44 phone number"
+email = "amyjrossall8@gmail.com"
+#address = "Physic Address here (optional)"
 # Contact Form Action
-contact_form_action = "#"
+#contact_form_action = "#"
 # copyright
 copyright = "Copyright &copy; 2021"
 
@@ -102,12 +102,16 @@ copyright = "Copyright &copy; 2021"
 
 # social site
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/artt.aj/"
 
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
+#[[params.social]]
+#icon = "ti-facebook"
+#link = "#"
+
+#[[params.social]]
+#icon = "ti-twitter-alt"
+#link = "#"
 
 #[[params.social]]
 #icon = "ti-linkedin"
